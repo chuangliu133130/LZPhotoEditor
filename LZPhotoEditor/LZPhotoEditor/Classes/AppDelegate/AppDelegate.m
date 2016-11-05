@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-
+#import <BlocksKit/BlocksKit.h>
 @interface AppDelegate ()
 
 @end
